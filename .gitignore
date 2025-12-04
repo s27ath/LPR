@@ -1,0 +1,18 @@
+# Ignore Python virtual environment
+lpr-env/
+
+# Ignore output files and folders
+outputs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
